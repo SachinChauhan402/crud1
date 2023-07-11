@@ -1,0 +1,49 @@
+/* .input-container {
+    background-color: #9fbec3;
+    height: 100vh;
+  } */
+  
+  .input-box-todo {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 10px;
+    width: 450px;
+    margin-left: 30rem;
+    margin-top: 15rem;
+    height: 25px;
+  }
+  
+  .add-btn {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 15rem;
+    height: 42px;
+  }
+  
+  .add-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .list-items {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .icons {
+    margin-left: 10px;
+    color: #ff5757;
+    cursor: pointer;
+  }
+  
+  .users{
+    margin-left: 40px;
+  }
+
